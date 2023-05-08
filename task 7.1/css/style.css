@@ -1,0 +1,32 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+button{
+  width: 40px;
+  height: 40px;
+  background-color: lightgreen;
+  background-image: url(../img/free-icon-font-search-3917132.svg);
+  background-size: 25px;
+  background-repeat: no-repeat;
+  background-position: center;
+  border: none;
+  cursor: pointer;
+  vertical-align: top;
+}
+div{
+  border: 2px solid green;
+  display: inline-block;
+  border-radius: 3px;
+
+}
+input{
+  padding: 11px 10px 9px;
+  vertical-align: top;
+  border: none;
+}
+input:focus{
+ border: none;
+ outline: none;
+}

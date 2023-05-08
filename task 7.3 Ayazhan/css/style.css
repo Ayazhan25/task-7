@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.name{
+  padding-bottom: 20px;
+}
+.list form{
+display: inline-block;
+padding-left: 10px;
+}
+h1{
+  size: 20px;
+}
+.register{
+  border: 2px solid #0000;
+  background-color: green;
+  width: 50px;
+  height: 20px;
+}
+.Enter{
+  border: 2px solid #0000;
+  background-color: blue;
+  width: 50px;
+  height: 20px;
+}
